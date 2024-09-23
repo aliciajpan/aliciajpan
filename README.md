@@ -1,21 +1,21 @@
-## Howdy! 👋
+<div style="text-align:center">
 
-![plants-7679_256](https://github.com/user-attachments/assets/5a416b67-1c57-4ff7-9034-57888bafa609)
+<img src="./plants.gif" alt="plant gif">
 
+## Howdy! My name is Alicia 👋
 
-<!--
-**aliciajpan/aliciajpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I studied mechatronics engineering at THe University of Waterloo
+- I studied full-stack software development at BrainStation
 
-Here are some ideas to get you started:
+### Languages & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,mysql,express,nodejs,npm,vite,postman)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,matlab,py,java,arduino)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=autocad,bitbucket,eclipse,git,github,md,netlify,vercel,vscode)](https://skillicons.dev)
 
 <sub>Creator of plant GIF: https://pixabay.com/users/winterflower-17292963/</sub>
+
+</div>
+
