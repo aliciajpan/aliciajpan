@@ -1,4 +1,7 @@
-## Hi there 👋
+## Howdy! 👋
+
+![plants-7679_256](https://github.com/user-attachments/assets/5a416b67-1c57-4ff7-9034-57888bafa609)
+
 
 <!--
 **aliciajpan/aliciajpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<sub>Creator of plant GIF: https://pixabay.com/users/winterflower-17292963/</sub>
