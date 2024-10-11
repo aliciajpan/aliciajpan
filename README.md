@@ -12,7 +12,7 @@
 - I am always looking for opportunities to learn and work on teams with good vibes
 - I am passionate about user-centered design & human factors in engineering!
 
-<div style="text-align:center">
+<div align="center">
 
 ### Web Dev
 
