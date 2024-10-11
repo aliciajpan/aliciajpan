@@ -6,11 +6,13 @@
 
 </div>
 
-- 🤖 I studied mechatronics engineering at The University of Waterloo
+- 🤖 I studied mechatronics engineering at the University of Waterloo
 - 👩‍💻 I studied full-stack software development at BrainStation
 - 💗 I want to build things that make life better, having worked on everything from printed circuit boards to websites
 - 🌞 I am always looking for opportunities to learn and work on teams with good vibes
 - 🧠 I am passionate about user-centered design & human factors in engineering!
+
+Checkout out my portfolio: https://aliciajpan.github.io/
 
 <div align="center">
 
