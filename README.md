@@ -12,7 +12,7 @@
 - 🌞 I am always looking for opportunities to learn and work on teams with good vibes
 - 🧠 I am passionate about user-centered design & human factors in engineering!
 
-Checkout out my portfolio: https://aliciajpan.github.io/
+**Checkout out my portfolio: https://aliciajpan.github.io/**
 
 <div align="center">
 
