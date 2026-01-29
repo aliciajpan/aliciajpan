@@ -6,27 +6,26 @@
 
 </div>
 
-- 🤖 I studied mechatronics engineering at the University of Waterloo
-- 👩‍💻 I studied full-stack software development at BrainStation
-- 💗 I want to build things that make life better, having worked on everything from printed circuit boards to websites
-- 🌞 I am always looking for opportunities to learn and work on teams with good vibes
-- 🧠 I am passionate about user-centered design & human factors in engineering!
+- 🧠 I am researching social robotics @ the University of Waterloo
+- 🤖 I studied mechatronics engineering and full-stack software development
+- 💗 I want to build things that make life better, having worked on everything from PCBs to websites
+- 🌞 I am always looking for opportunities to learn and bring good vibes to my team
 
 **Checkout out my portfolio: https://aliciajpan.github.io/**
 
 <div align="center">
 
+### Robotics
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=autocad,c,py,cpp,matlab,java,arduino,raspberrypi,ubuntu)
+
 ### Web Dev
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,scss,react,mysql,express,nodejs,npm,vite,postman)
 
-### Robotics
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=autocad,c,cpp,matlab,py,java,arduino)
-
 ### Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bitbucket,eclipse,git,github,md,netlify,vercel,vscode)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bitbucket,eclipse,git,github,md,vercel,vscode)
 
 
 <sub>Creator of plant GIF: https://pixabay.com/users/winterflower-17292963/</sub>
