@@ -6,10 +6,10 @@
 
 </div>
 
-- 🧠 I am researching social robotics @ the University of Waterloo
-- 🤖 I studied mechatronics engineering and full-stack software development
+- 🧠 Researching social robotics @ the University of Waterloo
+- 🤖 Studied mechatronics engineering and full-stack software development
 - 💗 I want to build things that make life better, having worked on everything from PCBs to websites
-- 🌞 I am always looking for opportunities to learn and bring good vibes to my team
+- 🌞 Always looking for opportunities to learn and bring good vibes to my team
 
 **Checkout out my portfolio: https://aliciajpan.github.io/**
 
